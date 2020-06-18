@@ -1,2 +1,2 @@
-# Black-Box-Down-Analytics
+# BBD-Analytics
 Analyses of data related to the Black Box Down podcast (RoosterTeeth)
